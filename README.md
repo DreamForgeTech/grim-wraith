@@ -47,9 +47,11 @@
 
 ## 安装
 
-下载最新 APK 直接安装即可，无需 root。
+- 下载最新 APK 直接安装即可，无需 root。
+- [轻音1.0.1]https://github.com/DreamForgeTech/grim-wraith/releases/download/v1.0.0/1.0.1.apk
+- 通过百度网盘： https://pan.baidu.com/s/18H5oZKCBbHPnWJUigoS7vw?pwd=hgib 提取码: hgib
 
-首次使用请授予「所有文件访问权限」，否则无法扫描歌曲和写入标签。
+- 首次使用请授予「所有文件访问权限」，否则无法扫描歌曲和写入标签。
 
 ## 构建
 
